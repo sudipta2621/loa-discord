@@ -1,0 +1,24 @@
+[
+  {
+    "userId": "1035039577926275072",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-14",
+    "reason": "Trial",
+    "status": "deleted"
+  },
+  {
+    "userId": "753454308371988540",
+    "startDate": "2025-04-15",
+    "endDate": "2025-04-19",
+    "reason": "Trial",
+    "status": "deleted",
+    "confirmationChannel": "1354508966490673315"
+  },
+  {
+    "userId": "753454308371988540",
+    "startDate": "2025-04-15",
+    "endDate": "2025-04-19",
+    "reason": "Trial",
+    "status": "deleted"
+  }
+]
