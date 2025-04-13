@@ -20,5 +20,54 @@
     "endDate": "2025-04-19",
     "reason": "Trial",
     "status": "deleted"
+  },
+  {
+    "userId": "1350978725705154705",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-14",
+    "reason": "Final exams",
+    "status": "active"
+  },
+  {
+    "userId": "617379376052437003",
+    "startDate": "2025-04-15",
+    "endDate": "2025-04-23",
+    "reason": "vacation",
+    "status": "active"
+  },
+  {
+    "userId": "1339046155677466670",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-23",
+    "reason": "Not mentioned",
+    "status": "active"
+  },
+  {
+    "userId": "1337177201984016424",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-24",
+    "reason": "Not available in person",
+    "status": "active"
+  },
+  {
+    "userId": "291875389175889921",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-20",
+    "reason": "Not mentioned",
+    "status": "active"
+  },
+  {
+    "userId": "755104624721264642",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-22",
+    "reason": "Not mentioned",
+    "status": "active"
+  },
+  {
+    "userId": "1331473374584766568",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-30",
+    "reason": "lab works",
+    "status": "active"
   }
 ]
