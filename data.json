@@ -33,14 +33,14 @@
     "startDate": "2025-04-15",
     "endDate": "2025-04-23",
     "reason": "vacation",
-    "status": "active"
+    "status": "expired"
   },
   {
     "userId": "1339046155677466670",
     "startDate": "2025-04-12",
     "endDate": "2025-04-23",
     "reason": "Not mentioned",
-    "status": "active"
+    "status": "expired"
   },
   {
     "userId": "1337177201984016424",
@@ -54,14 +54,14 @@
     "startDate": "2025-04-12",
     "endDate": "2025-04-20",
     "reason": "Not mentioned",
-    "status": "active"
+    "status": "expired"
   },
   {
     "userId": "755104624721264642",
     "startDate": "2025-04-12",
     "endDate": "2025-04-22",
     "reason": "Not mentioned",
-    "status": "active"
+    "status": "expired"
   },
   {
     "userId": "1331473374584766568",
